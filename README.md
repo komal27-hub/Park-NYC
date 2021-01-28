@@ -1,1 +1,3 @@
-# Park-NYC
+# Park-NYC description
+ParkNYC is an easy and convenient way to pay for on-street parking and municipal parking lots using a mobile phone or web browser. ParkNYC is governed by Department of
+Transportation, New York City. Using the ParkNYC app and website the users can pay forparking without using meters. Users don’t have to carry coins or credit cards to pay for parking.By using the app, the need of placing the receipt on the dashboard of the car is eliminated. Users receive mobile alerts prior to time expiring for the parking. The application also provides the convenience of extending the parking time remotely. Users can also track their parking sessions and activities by using the app. This service manages to keep the park and pay experience convenient and hassle free for the users.
